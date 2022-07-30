@@ -3,12 +3,12 @@
 1. Вы должны скачать приложение Python (свежие версии приложения): https://www.python.org/downloads/
 2. Устанавливаете сам Python (ОБЯЗАТЕЛЬНО УКАЗЫВАЙТЕ НА PATH PYTHON!)
 3. Открываете Командную строку (Windows+R и пишите в диалоговом окне: cmd)
-4. Устанавливаете плагины или дополнения
-5. Пишем эти команды
-pip install discord
-pip install asyncio
-pip install requests
-pip install colorama
+4. Устанавливаете плагины или дополнения с помощью команд из 5 пункта
+5. Пишем эти команды без запятых!
+pip install discord,
+pip install asyncio,
+pip install requests,
+pip install colorama,
 6. Скачиваем архив с этим ботом
 7. Заходите в портал разработчика Discord Developer и создаём Applications (создаём ему название сами)
 8. Указываем ему Scope: bot
